@@ -14,6 +14,6 @@ This is the code I created as part of learning neural networks during Andrej Kar
 
 ## Prerequisites
 
-`pip install graphviz`
-`pip install ipynb`
-`sudo apt install graphviz`
+- `pip install graphviz`
+- `pip install ipynb`
+- `sudo apt install graphviz`
