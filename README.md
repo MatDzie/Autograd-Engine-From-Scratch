@@ -8,6 +8,9 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - derivative/gradient
 - chain rule
 - neural network definition
+- weights
+- bias
+- activation function
 - tensor
 - forward pass
 - backpropagation
