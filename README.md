@@ -18,6 +18,7 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - layer
 - multi-layer perceptron
 - loss function
+- gradient descent
 
 ## Prerequisites
 
