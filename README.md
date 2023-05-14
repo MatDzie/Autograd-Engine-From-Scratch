@@ -20,6 +20,7 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - `pip install graphviz`
 - `pip install ipynb`
 - `sudo apt install graphviz`
+- `pip install import-ipynb`
 
 ## License
 MIT
