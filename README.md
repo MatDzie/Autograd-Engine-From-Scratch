@@ -17,6 +17,7 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - neuron
 - layer
 - multi-layer perceptron
+- loss function
 
 ## Prerequisites
 
