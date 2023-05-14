@@ -14,13 +14,16 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - tensor
 - forward pass
 - backpropagation
+- neuron
+- layer
+- multi-layer perceptron
 
 ## Prerequisites
 
-- `pip install graphviz`
 - `pip install ipynb`
-- `sudo apt install graphviz`
 - `pip install import-ipynb`
+- `pip install graphviz`
+- `sudo apt install graphviz`
 
 ## License
 MIT
